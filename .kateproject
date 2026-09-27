@@ -1,0 +1,10 @@
+{
+	"name": "cybersec",
+	"files": [
+		{
+			"directory": ".",
+			"recursive": 1,
+			"hidden": 1
+		}
+	]
+}
